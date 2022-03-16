@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+/* //complete k liye */
+.complete {
+  text-decoration: line-through;
+}
+.search {
+  width: 30%;
+}
+.pending{
+  color:crimson;
+}
